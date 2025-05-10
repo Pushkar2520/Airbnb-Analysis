@@ -1,4 +1,4 @@
-# Airbnb-Analysis(Analysation Using Python-pandas-matplotlib-seaborn)
+# Airbnb-Analysis(Analyzation Using Python-pandas-matplotlib-seaborn)
 This project explores Airbnb listing data to uncover trends in pricing, availability, and customer reviews. The goal is to identify what drives higher bookings and better guest satisfaction, using data-driven insights to support listing optimization and strategic decision-making.
 # Data Used
 <a href="https://drive.google.com/file/d/17d0yXKVkYBbHgQ2ocFUp6tphhFb8pYpn/view?usp=sharing">DataSet<a/>
@@ -9,7 +9,7 @@ This project explores Airbnb listing data to uncover trends in pricing, availabi
 - Minimum Nights Required
 - Availability in Days (Annual)
 - Top Neighborhoods by Listing Count or Revenue
-- Analysation
+- Analyzation
   <a href="https://github.com/Pushkar2520/Airbnb-Analysis/blob/main/airbnb_analysis.html">Analysis<a>
 # Process
 - Collected and imported Airbnb listing dataset into the analysis tool
