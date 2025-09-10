@@ -10,7 +10,7 @@ This project explores Airbnb listing data to uncover trends in pricing, availabi
 - Availability in Days (Annual)
 - Top Neighborhoods by Listing Count or Revenue
 - Analyzation
-  <a href="https://github.com/Pushkar2520/Airbnb-Analysis/blob/main/airbnb_analysis.html">Analysis<a>
+  <a href="https://github.com/Pushkar2520/Airbnb-Analysis/blob/main/Airbnb_Analysis.pdf">Analysis<a>
 # Process
 - Collected and imported Airbnb listing dataset into the analysis tool
 - Cleaned and preprocessed the data by handling missing values and filtering outliers
